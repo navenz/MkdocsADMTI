@@ -1,32 +1,24 @@
-# Sobre este Projeto.
-
-## Sobre o Projeto
-
 ### MkDocs
 
-[MkDocs](https://www.mkdocs.org/) é uma ferramenta de documentação estática que facilita a criação de sites de documentação a partir de arquivos Markdown. Ele é especialmente útil para documentação técnica devido à sua simplicidade e flexibilidade.
+[MkDocs](https://www.mkdocs.org/) é uma ferramenta de geração de sites de documentação estática a partir de arquivos Markdown. É amplamente utilizada para documentação técnica devido à sua simplicidade e flexibilidade.
 
 ### GLPI
 
-[GLPI](https://glpi-project.org/) (Gestionnaire Libre de Parc Informatique) é um software de gerenciamento de ativos de TI e helpdesk. Ele ajuda as organizações a gerenciar seus ativos de TI e a resolver problemas de forma eficiente.
+[GLPI](https://glpi-project.org/) (Gestionnaire Libre de Parc Informatique) é um software para gerenciamento de ativos de TI e helpdesk. Ele auxilia organizações a administrar seus ativos de TI e resolver problemas de maneira eficiente.
 
 ## Objetivos da Documentação
 
-- **Facilitar a Instalação**: Fornecer guias passo a passo para a instalação do MkDocs e do GLPI.
-- **Ajudar na Configuração**: Explicar como configurar essas ferramentas para diferentes necessidades.
-- **Guias de Uso**: Demonstrar como utilizar as principais funcionalidades de ambos os sistemas.
+- **Facilitar a Instalação**: Proporcionar guias detalhados e passo a passo para instalar o MkDocs e o GLPI.
+- **Auxiliar na Configuração**: Instruir sobre como configurar essas ferramentas para diferentes necessidades.
+- **Guias de Uso**: Mostrar como utilizar as principais funcionalidades dos dois sistemas.
 - **Recursos Avançados**: Explorar funcionalidades avançadas e melhores práticas.
 
-## Desenvolvedor do projeto
+## Desenvolvedor do Projeto
 
-Este projeto foi desenvolvido por **Pedro Henrique**, aluno do curso de  **Ciência da Computação**  que atualmente está no 5º período da faculdade [IFMA Campus Imperatriz](https://imperatriz.ifma.edu.br/). 
+Projeto desenvolvido por Enzo Nava, quinto período de Ciência da Computação - IFMA.
 
 ## Tecnologias Utilizadas
 
-- [**MkDocs**](https://www.mkdocs.org/): Ferramenta principal para gerar a documentação.
-- [**Markdown**](https://www.markdownguide.org/): Linguagem de marcação utilizada para escrever o conteúdo.
-- [**Material for MkDocs**](https://squidfunk.github.io/mkdocs-material/): Tema usado para estilizar o site de documentação.
-
-## Como Contribuir
-
- Se você gostaria de ajudar a melhorar esta documentação, sinta-se à vontade para abrir uma issue ou enviar um pull request no [repositório no GitHub](https://github.com/pedro31415/mkdocs-documentation).
+- [**MkDocs**](https://www.mkdocs.org/): Ferramenta principal utilizada para gerar a documentação.
+- [**Markdown**](https://www.markdownguide.org/): Linguagem de marcação usada para escrever o conteúdo.
+- [**Material for MkDocs**](https://squidfunk.github.io/mkdocs-material/): Tema utilizado para estilizar o site de documentação.

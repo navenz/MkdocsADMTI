@@ -2,7 +2,7 @@
 
 ## O que é o MkDocs?
 
-[**MkDocs**](https://www.mkdocs.org/) é uma ferramenta que permite transformar arquivos Markdown em sites de documentação estática. É fácil de configurar e utilizar, oferecendo uma maneira eficiente e rápida de criar documentação técnica para seus projetos.
+MkDocs é uma ferramenta que transforma arquivos Markdown em sites de documentação estática. É simples de configurar e usar, oferecendo uma maneira rápida e eficiente de criar documentação técnica para seus projetos.
 
 ### Principais Funcionalidades do MkDocs
 
@@ -13,7 +13,7 @@
 
 ## O que é o GLPI?
 
-[**GLPI**](https://glpi-project.org/) (Gestionnaire Libre de Parc Informatique) é um software para gerenciamento de ativos de TI e helpdesk. Ele permite que as organizações gerenciem seus ativos de hardware e software, acompanhem problemas e solicitações e otimizem processos de TI.
+GLPI (Gestionnaire Libre de Parc Informatique) é um software para gerenciamento de ativos de TI e helpdesk. Ele permite que as organizações gerenciem seus ativos de hardware e software, acompanhem problemas e solicitações, e otimizem processos de TI.
 
 ### Principais Funcionalidades do GLPI
 
@@ -30,17 +30,17 @@
 
 ## Seções Principais
 
-- [Sobre](about.md)
-- [Introdução](intro.md)
-- [GLPI](glpi.md)
-- [MkDocs](mkdocs.md)
-- [Conclusão](conclusao.md)
+- Sobre
+- Introdução
+- GLPI
+- MkDocs
+- Conclusão
 
 ## Recursos Úteis
 
-- [Documentação Oficial do MkDocs](https://www.mkdocs.org/getting-started/)
-- [Documentação Oficial do GLPI](https://glpi-project.org/documentation/)
+- [Documentação Oficial do MkDocs](https://www.mkdocs.org/)
+- [Documentação Oficial do GLPI](https://glpi-project.org/)
 
 ## Contato e Suporte
 
-Para dúvidas e suporte, entre em contato com **Ruan Henrique** pelo **e-mail: ruan.borges@acad.ifma.edu.br**.
+Contato de suportte com o técnico Enzo Nava pelo e-mail: enzonava@acad.ifma.edu.br.
