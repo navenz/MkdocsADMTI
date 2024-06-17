@@ -1,4 +1,4 @@
-site_name: Documentação dos Sistemas
+site_name: Documentação GLPI+MKDOCS
 nav:
   - Home: index.md
   - Sobre: about.md
