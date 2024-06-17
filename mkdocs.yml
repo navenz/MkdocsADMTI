@@ -7,7 +7,7 @@ nav:
   - MkDocs: mkdocs.md
   - Conclusão: conclusao.md
 theme: 
-  name: material
+  name: simple-blog
   palette:
     # Light mode
     - scheme: default
